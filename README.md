@@ -2,7 +2,6 @@
 
 # Node public repo  subscribe to my channel , thanks you
 
-**Simple node.js app that servers "Welcome to Cloud aseem Youtube channel"**
 
 Great for testing simple deployments on Cloud
 
